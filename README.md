@@ -1,7 +1,7 @@
 # A Brief Introduction to Myself
 ## Basic Information
 - Name: Xiaotian Xiao
-- Gender: male
+- Gender: Male
 - Birthday: April 2007
 - University: Sichuan University (SCU)
 - College: College of Computer Science
@@ -10,9 +10,9 @@
 ## What I have done
 ### Course Grades
 First semster of Freshmen year
-- GPA:3.91/4.0
-- Weighted Average Score:92.13
-- Rank:15/351
+- GPA: 3.91/4.0
+- Weighted Average Score: 92.13
+- Rank: 15/351
 
 Core Curriculum
 - Calculus(I)-1: 97 (GPA:4.0)
